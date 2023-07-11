@@ -1,7 +1,6 @@
 @charset "UTF-8";
 .container-fluid {
     background-color: #8A333C;
-    font-family: Cambria;
 }
 .container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
     background-color: #8A333C;
@@ -12,7 +11,7 @@
 }
 .navbar-nav.mr-auto .nav-item .nav-link {
     color: #FFFFFF;
-    font-size: 20px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
     background-color: #000000;
@@ -20,17 +19,4 @@
 }
 .container-fluid .container footer {
     color: #FFFFFF;
-}
-p   {
-    color: #FFFFFF;
-    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-}
-h1 {
-    color: #FFFFFF;
-    font-size: 40px;
-}
-.card.col-md-4.col-lg-12 .card-body .card-text {
-}
-.card.col-md-4.col-lg-12 .card-body .card-text {
-    color: #000000;
 }
